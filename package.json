@@ -1,0 +1,22 @@
+{
+  "name": "mnt-ephemeral-template-cache-78-082fb2842f656a7c6f38ae3fb35c71fcef6a45b3af51ef1d08105056362bc7-out",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/react": "^3.4.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "astro": "^4.9.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@astrojs/check": "^0.7.0",
+    "typescript": "^5.4.5"
+  }
+}
