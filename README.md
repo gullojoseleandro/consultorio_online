@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro + React Example
 
 ```sh
@@ -11,3 +12,6 @@ npm create astro@latest -- --template framework-react
 This example showcases Astro working with [React](https://react.dev).
 
 Write your React components as `.jsx` or `.tsx` files in your project.
+=======
+# consultorio_online
+>>>>>>> 24d4d33d573beca4c83376a12ab8b10b300175a6
